@@ -5,9 +5,9 @@
 The **Store Management System** is a Java-based command-line application designed to manage products in a store. It provides basic functionalities such as adding items, searching for items by various criteria (name, code, or price), editing items, and resetting the password for the system. The system also features a login mechanism to ensure only authorized users can perform certain actions.
 
 ## Screenshot of CLI
+<img src="ss_store.png" alt="Store Management System Screenshot" width="500"/>
+<img src="ss_store1.png" alt="Store Management System Screenshot" width="500"/>
 
-![Store Management System Screenshot](images/ss_store.png)
-![Store Management System Screenshot](images/ss_store1.png)
 
 
 ## Features
